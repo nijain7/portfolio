@@ -1,23 +1,22 @@
-body {
-    font: 100%/1.5 system-ui;
-    max-width: 100ch;
-    margin-inline: auto;
-    padding-inline: 2rem;
-  }
-  nav { 
-    display: flex;
-    text-decoration: none;
-    color: inherit;
-    text-align: center;
-    padding:0.5em;
-    margin-bottom: auto;
-    border-bottom: 1px solid oklch(80% 3% 200);
+.projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
+    gap: 1em;
+}
+article{
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: span 3;
+}
 
-  }
-  nav a {
-    flex:1;
-  }
-  nav a.current {
-    border-bottom: 0.4em solid oklch(80% 3% 200);
-    padding-bottom: 0.1em;
-  }
+h2{
+    margin :0;
+}
+h1{
+    font-size: 400%;
+}
+h1,h2,h3,h4,h5,h6{
+    line-height : 1,1;
+    text-wrap : balance;
+}
+
