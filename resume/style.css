@@ -16,5 +16,5 @@ time{
 body {
     max-width: 100ch;
     margin-inline: auto;
-    padding-inline: 1rem;
+    padding-inline: 0.5rem;
 }
