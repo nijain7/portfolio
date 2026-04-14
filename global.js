@@ -2,7 +2,7 @@ console.log("IT'S ALIVE!");
 
 const BASE_PATH = (location.hostname === "localhost" || location.hostname === "127.0.0.1")
   ? "/"
-  : "/portfolio/";
+  : "/website/";
 
 let pages = [
     { url: '', title: 'Home' },
