@@ -42,3 +42,21 @@ body {
   right: 1rem;
   font-size: 80%;
 }
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+#profile-stats dt {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: gray;
+}
+
+#profile-stats dd {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0;
+}

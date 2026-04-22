@@ -1,0 +1,74 @@
+[
+    {
+        "title": "BRG Energies",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Conducted market research, customer exploration, developing  platform specific engagement strategies, produced and presented final timeline, mockups, and deliverable to client"
+    },
+    {
+        "title": "Image and Audio Classification System",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Designed, trained, and finalized image and audio classification models using Python, improving automated dataset labeling and recognition accuracy."
+    },
+    {
+        "title": "Custom Data Processing Framework",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Engineered a Java-based DataFrame system modeled after Pandas, enabling high-performance data storage, indexing, and manipulation"
+    },
+    {
+        "title": "Recipes and Ratings Analysis",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Conducted full data science process, including data cleaning, exploratory analysis, hypothesis testing, and developing a machine learning model to explore the relationship between the features of food recipes and how those features can predict ratings of recipes. "
+    },
+    {
+        "title": "Triton Treasure Map Webpage",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Developed a website to help UCSD students find optimal study spots, weekend activities and dining halls based on personalized preferences."
+    },
+    {
+        "title": "Grades Analysis",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Developed an algorithm to clean and analyze data of a gradebook for a data science class, finding finalized grades based on different grading schemes and creating heatmaps and graphs to visualize class performance.  "
+    },
+    {
+        "title": "Loan Application Analysis",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Worked with a public dataset from LendingClub loan applications to understand lender decision making, calculate disposable income, and identify simpsons paradox in the dataset. Conducted EDA and created visualizations of different aggregates of the data."
+    },
+    {
+        "title": "Language Model Creation",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Prepared, dissected and tokened a corpus, developed a baseline language model, and trained and developed a finalized N-Gram LLM. "
+    },
+    {
+        "title": "On the Go Energy",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Developed an extensive start-up business plan, pitched to VCs at Radar partners. Developed financial statements and analysis, helped develop prototype with manufacturers for market testing. Participated in an esteemed business incubation program at Santa Clara University"
+    },
+    {
+        "title": "Blanditiis expedita inventore quaerat?",
+        "year": "2021",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Fugiat consectetur placeat veritatis dolorum, explicabo illum maiores corporis esse a nisi ullam dolores, ratione excepturi sint, dignissimos labore optio reprehenderit dolore adipisci tempora ipsa odio possimus accusantium. Maiores, enim."
+    },
+    {
+        "title": "Atque autem commodi fugiat.",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Vitae et quam error at sequi perspiciatis aut. Nisi praesentium deserunt ut laudantium. Quos reiciendis excepturi fugit tempora, aliquam vitae placeat nesciunt iusto at repellat cumque aut! Iusto, culpa in."
+    },
+    {
+        "title": "Incidunt veniam alias sunt.",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Ullam, quibusdam voluptate? Officia omnis, quaerat corrupti sequi quae, ad quo excepturi nostrum ut, eius voluptate autem cupiditate ipsa? Quod voluptates quasi nihil voluptatibus labore delectus accusantium nostrum consectetur cupiditate."
+    }
+]
