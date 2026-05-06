@@ -51,6 +51,7 @@ g.gridlines line  {
   }
   
   .tooltip {
+    position: fixed;
     top: 1em;
     left: 1em;
     opacity: 2;
@@ -88,6 +89,6 @@ g.gridlines line  {
   }
   circle.selected {
     fill: #ff6b6b !important;
-    fill-opacity: 1 !important;
+    fill-opacity: 0.8 !important;
   }
   
