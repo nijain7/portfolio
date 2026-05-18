@@ -54,10 +54,11 @@
         "description": "Developed an extensive start-up business plan, pitched to VCs at Radar partners. Developed financial statements and analysis, helped develop prototype with manufacturers for market testing. Participated in an esteemed business incubation program at Santa Clara University"
     },
     {
-        "title": "Blanditiis expedita inventore quaerat?",
+        "title": "Bike-watching Visualization",
         "year": "2021",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Fugiat consectetur placeat veritatis dolorum, explicabo illum maiores corporis esse a nisi ullam dolores, ratione excepturi sint, dignissimos labore optio reprehenderit dolore adipisci tempora ipsa odio possimus accusantium. Maiores, enim."
+        "description": "Developed interactive visualization expressing bike routes, arrivals and departures in Boston and Cambridge using D3."
+         
     },
     {
         "title": "Atque autem commodi fugiat.",

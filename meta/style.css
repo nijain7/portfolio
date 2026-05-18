@@ -64,6 +64,11 @@ g.gridlines line  {
     transform-origin: center;
     transform-box: fill-box;
     fill-opacity: 0.5;
+    @starting-style {
+      r: 0;
+    }
+  }
+  
   }
   
   circle:hover {
@@ -90,5 +95,45 @@ g.gridlines line  {
   circle.selected {
     fill: #ff6b6b !important;
     fill-opacity: 0.8 !important;
+  }
+  #files {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+  
+    > div {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: subgrid;
+    }
+  
+    dt {
+      grid-column: 1;
+    }
+  
+    dd {
+      grid-column: 2;
+    }
+  }
+  .loc {
+    display: flex;
+    width: 0.5em;
+    aspect-ratio: 1;
+    background: var(--color);
+    border-radius: 50%;
+  }
+  dd {
+    grid-column: 2;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    align-content: start;
+    gap: 0.15em;
+    padding-top: 0.6em;
+    margin-left: 0;
+  }
+  #files dt small {
+    display: block;
+    font-size: 0.75em;
+    opacity: 0.6;
   }
   

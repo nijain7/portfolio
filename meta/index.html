@@ -11,6 +11,23 @@
 </head>
 <body>
     <h1>Meta</h1>
+    <div style="display: flex; flex: 1; align-items: baseline;">
+      <label>
+        Show commits until:
+        <input type="range" id="commit-progress" min="0" max="100" value="100" style="width: 20rem;" >
+      </label>
+      <time id="commit-max-time" style="margin-left: auto;"></time>
+    </div>
+    <dl id="files">
+      <!-- we want the following structure for each file:
+      <div>
+        <dt>
+          <code>{file.name}</code>
+        </dt>
+        <dd>{file.lines.length} lines</dd>
+      </div>
+      -->
+    </dl>
     <div id="stats"></div>
     <h2>Commits by time of day</h2>
     <div id="chart"></div>
